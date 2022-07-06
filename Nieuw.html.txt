@@ -1,0 +1,11 @@
+
+
+<b> blauw </b>
+
+<style>
+
+<hr></hr>
+<div>
+	<h1 class="uitzondering" id="anders" onclick="gaan()" >LetOP: Hoofdstuk</h1>
+	<p> dit is een stuk tekst </p>
+
